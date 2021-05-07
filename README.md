@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=izayozaslan&label=Profile%20views&color=0e75b6&style=flat" alt="izayozaslan" /> </p>
 <h3 align="left">Contact me!</h3>
 
-<a href="https://www.linkedin.com/in/izayozaslan/"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'></a>
+<a href="https://www.linkedin.com/in/izay-%C3%B6zaslan-315938192/"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'></a>
 <a href="mailto:97izay@gmail.com"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'></a>
 
 
